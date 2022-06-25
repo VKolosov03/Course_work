@@ -1,0 +1,371 @@
+.us{
+    top: 1500px;
+}
+  .header_item{
+     margin-right: 121px;
+  }
+  .footer_item{
+     margin-right: 246.3px;
+  }
+ .title_landing{
+    top: 155px;
+ }
+ .micro_champs_heading{
+    height: 110px;
+    top: 50px;
+ }
+
+  .macro_heading{
+    height: 110px;
+    top: 50px;
+ }
+ .caption{
+    height: 95px;
+ }
+ .caption_text{
+    height: 45px;
+    line-height: 33px;
+ }
+ .title_search{
+    width: 355px;
+ }
+ .search_heading{
+    line-height: 50px;
+ }
+ @media only screen and (max-width: 1535.99px) {
+.us{
+    top: 1390px;
+}
+  .header_item{
+     margin-right: 103.2px;
+  }
+  .footer_item{
+     margin-right: 211.5px;
+  }
+  .title_landing{
+    top: 142px;
+ }
+ .micro_champs_heading{
+    top: 50px;
+ }
+  .macro_heading{
+    top: 50px;
+ }
+ .caption{
+    height: 90px;
+ }
+ .caption_text{
+    line-height: 30px;
+ }
+ .title_search{
+    width: 355px;
+ }
+ .search_heading{
+    line-height: 50px;
+ }
+}
+
+@media only screen and (max-width: 1398.99px) {
+.us{
+    top: 1200px;
+}
+  .header_item{
+     margin-right: 87px;
+  }
+  .footer_item{
+     margin-right: 169px;
+  }
+  .title_landing{
+    top: 117px;
+ }
+ .caption{
+    height: 75px;
+ }
+ .caption_text{
+    line-height: 25px;
+ }
+ .search_heading{
+    line-height: 45px;
+ }
+}
+
+@media only screen and (max-width: 1232.99px) {
+.us{
+    top: 1025px;
+}
+  .header_item{
+     margin-right: 67.6px;
+  }
+  .footer_item{
+     margin-right: 143px;
+  }
+  .title_landing{
+    top: 110px;
+ }
+ .micro_champs_heading{
+    top: 45px;
+ }
+  .macro_heading{
+    top: 45px;
+ }
+ .caption{
+    height: 65px;
+ }
+ .caption_text{
+    width: 200px;
+    height: 20px;
+    line-height: 22px;
+ }
+  .title_search{
+    width: 265px;
+ }
+ .search_heading{
+    line-height: 40px;
+ }
+}
+
+@media only screen and (max-width: 1028.99px) {
+.us{
+    top: 900px;
+}
+  .header_item{
+     margin-right: 58px;
+  }
+  .footer_item{
+     margin-right: 131px;
+  }
+  .title_landing{
+    top: 95px;
+ }
+ .micro_champs_heading{
+    top: 35px;
+ }
+  .macro_heading{
+    top: 35px;
+ }
+ .caption{
+    height: 55px;
+ }
+ .caption_text{
+    width: 175px;
+    height: 17px;
+    line-height: 18px;
+ }
+   .title_search{
+    width: 245px;
+ }
+ .search_heading{
+    line-height: 32px;
+ }
+}
+@media only screen and (max-width: 883.99px) {
+.us{
+    top: 800px;
+}
+  .header_item{
+     margin-right: 51.7px;
+  }
+  .footer_item{
+     margin-right: 103.9px;
+  }
+  .title_landing{
+    top: 85px;
+ }
+ .micro_champs_heading{
+    top: 35px;
+ }
+  .macro_heading{
+    top: 35px;
+ }
+ .caption{
+    height: 50px;
+ }
+ .caption_text{
+    width: 160px;
+    height: 15px;
+    line-height: 17.5px;
+ }
+ .title_search{
+    width: 235px;
+ }
+ .search_heading{
+    line-height: 27px;
+ }
+}
+
+@media only screen and (max-width: 774.99px) {
+.us{
+    top: 685px;
+}
+  .header_item{
+     margin-right: 38.8px;
+  }
+  .footer_item{
+     margin-right: 68.6px;
+  }
+  .title_landing{
+    top: 65px;
+ }
+ .micro_champs_heading{
+    top: 20px;
+    line-height: 32px;
+ }
+  .macro_heading{
+    top: 20px;
+    line-height: 32px;
+ }
+ .caption{
+    height: 43px;
+ }
+ .caption_text{
+    width: 135px;
+    height: 15px;
+    line-height: 16px;
+ }
+     .title_search{
+    width: 215px;
+ }
+ .search_heading{
+    line-height: 24px;
+ }
+}
+
+@media only screen and (max-width: 623.99px) {
+.us{
+    top: 700px;
+}
+  .header_item{
+     margin-right: 30.2px;
+  }
+  .footer_item{
+     margin-right: 55.7px;
+  }
+  .title_landing{
+    top: 75px;
+ }
+ .micro_champs_heading{
+    top: 40px;
+    line-height: 39px;
+ }
+  .macro_heading{
+    top: 40px;
+    line-height: 39px;
+ }
+ .caption{
+    height: 50px;
+ }
+ .caption_text{
+    width: 175px;
+    height: 12px;
+    line-height: 18px;
+ }
+     .title_search{
+    width: 185px;
+ }
+ .search_heading{
+    line-height: 24px;
+ }
+}
+
+@media only screen and (max-width: 522.99px) {
+.us{
+    top: 575px;
+}
+  .header_item{
+     margin-right: 18px;
+  }
+  .footer_item{
+     margin-right: 31.4px;
+  }
+  .title_landing{
+    top: 75px;
+ }
+ .micro_champs_heading{
+    left: 15px;
+    top: 40px;
+    line-height: 27px;
+ }
+  .macro_heading{
+    top: 40px;
+    line-height: 27px;
+ }
+ .caption{
+    height: 50px;
+ }
+ .caption_text{
+    height: 12px;
+    line-height: 18px;
+ }
+  .title_search{
+    width: 165px;
+ }
+ .search_heading{
+    line-height: 20px;
+ }
+}
+
+@media only screen and (max-width: 386.99px) {
+.us{
+    top: 500px;
+}
+  .header_item{
+     margin-right: 12.7px;
+  }
+  .footer_item{
+     margin-right: 18.1px;
+  }
+  .title_landing{
+    top: 75px;
+ }
+ .micro_champs_heading{
+    left: 15px;
+    top: 35px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 120px;
+    height: 60px;
+ }
+  .macro_heading{
+    left:  150px;
+    top: 35px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 120px;
+    height: 60px;
+ }
+ .caption{
+    width: 165px;
+    height: 47px;
+    top: 338px;
+ }
+ .caption_text{
+    width: 156px;
+    height: 12px;
+    font-size: 15px;
+    line-height: 17px;
+    bottom: 6px;
+ }
+.title_search{
+    width: 165px;
+    height: 17px;
+    top: 115px;
+    left: 50px;
+    font-size: 14px;
+    line-height: 17px;
+ }
+ .search_heading{
+    width: 144px;
+    height: 43px;
+    top: 27px;
+    padding-top: 13px;
+    border-radius: 16px;
+    font-size: 13px;
+    line-height: 15px;
+ }
+}
+@media only screen and (min-height: 650px) and (max-width: 1000px){
+   .us{
+    top:  auto;
+    bottom: 0;
+   }
+}

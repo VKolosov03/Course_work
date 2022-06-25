@@ -1,0 +1,3169 @@
+@media only screen and (max-width: 1535.99px) {
+.landing{
+    top:  2075px;
+}
+.spin{
+    top:  775px;
+}
+.news{
+    top: 1325px;
+}
+.us{
+    top: 1290px;
+}
+.guides{
+    top: 2800px;
+}
+  .central{
+   width: 1192px;
+  }
+  .header {
+     height: 83px;
+     padding-top: 4px;
+     padding-bottom: 5px;
+ }
+  .header_list{
+     margin-top:  17px;
+  }
+    .header-pic{
+     width: 42.5px;
+     height: 42.5px;
+  }
+  .header_item{
+     margin-right: 111px;
+  }
+  .header_link{
+     font-size: 34px;
+     line-height: 42px;
+  }
+   .det{
+    font-size: 22.5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+ }
+   .footer{
+     height: 180px;
+     padding-top: 6px;
+     padding-bottom: 5px;
+ }
+  .footer_list{
+  }
+    .footer-pic{
+     width: 68px;
+     height: 68px;
+  }
+  .footer_item{
+     margin-right: 217px;
+  }
+  .footer_link{
+     font-size: 28px;
+     line-height: 40px;
+  }
+ .logo_name{
+     font-size: 43px;
+     line-height: 51px;
+  }
+  .title_landing{
+    height: 120px;
+    top: 142px;
+    font-size: 48px;
+    line-height: 60px;
+    width: 975px;
+ }
+   .main_list{
+      margin-top:  340px;
+  }
+    .main_item{
+     margin-bottom: 60px;
+  }
+ .rec{
+     height: 490px;
+ }
+ .micro_champs_heading{
+    left: 53px;
+    top: 50px;
+ }
+ .micro_champs-pic{
+    width: 486px;
+    height: 486px;
+ }
+ .micro_champs_text{
+    left: 53px;
+    top: 209px;
+ }
+  .macro_heading{
+    right: 66px;
+    top: 50px;
+ }
+ .macro-pic{
+    width: 486px;
+    height: 486px;
+ }
+ .macro_text{
+    right: 66px;
+    top: 209px;
+ }
+ .circle{
+    width: 290px;
+    height: 290px;
+    top: 285px;
+ }
+ .caption{
+    width: 290px;
+    height: 78px;
+    top: 595px;
+ }
+ .caption_text{
+    width: 285px;
+    height: 50px;
+    font-size: 28px;
+    line-height: 25px;
+ }
+ .arrow{
+    top: 322.5px;
+    height: 215px;
+ }
+ .med_circle{
+    width: 215px;
+    height: 215px;
+ }
+ .triangle{
+    left: 290px;
+    width: 69px;
+    height: 82px;
+    font-size: 68px;
+    line-height: 82px;
+    top: 68.5px;
+ }
+ .lil_circle{
+    width: 19px;
+    height: 19px;
+    left: 357px;
+    top: 99px;
+ }
+ .headline{
+    top: 280px;
+    left: 10px;
+    right: 10px;
+ }
+ .line{
+    width: 1161px;
+ }
+ .news_list{
+      margin-top:  284px;
+  }
+ .news_link{
+     height: 290px;
+ }
+ .news-pic{
+    width: 205px;
+    height: 205px;
+    top: 45px;
+ }
+ .news_heading{
+    width: 697px;
+    height: 64px;
+    right: 160px;
+    top: 45px;
+    font-size: 51px;
+    line-height: 64px;
+ }
+ .news_text{
+    width: 697px;
+    height: 118px;
+    right: 160px;
+    top: 93px;
+    font-size: 31px;
+    line-height: 39px;
+ }
+ .news_data{
+    width: 102px;
+    height: 33px;
+    right: 30px;
+    top: 210px;
+    font-size: 26px;
+    line-height: 33px;
+ }
+ .search_input{
+    width: 825px;
+    height: 80px;
+    left: 135px;
+    top: 142px;
+ }
+ input[type="text"]{
+    padding-left: 30px;
+    padding-right: 95px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+ .search_button{
+    width: 175px;
+    height: 80px;
+    left: 865px;
+    top: 142px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+ .title_search{
+    width: 305px;
+    height: 40px;
+    top: 245px;
+    left: 164px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+ .search_list{
+      margin-top:  350px;
+      margin-left: 375px;
+
+  }
+    .search_item{
+     margin-bottom: 220px;
+  }
+ .search_form{
+     height: 100px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 460px;
+    height: 138px;
+    top: 130px;
+    padding-top: 41px;
+    border-radius: 25px;
+    font-size: 42px;
+    line-height: 55px;
+ }
+ .search-pic{
+    width: 460px;
+    height: 368px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 1050px;
+    height: 386px;
+    top: 274px;
+ }
+ .supps_text{
+    width: 1032px;
+    height: 459px;
+    top: 675px;
+    font-size: 40px;
+    line-height: 51px;
+ }
+ .guide-pic1{
+    width: 490px;
+    height: 490px;
+    top: 285px;
+ }
+ .guide-pic2{
+    width: 490px;
+    height: 490px;
+    top: 2055px;
+ }
+ .guide_text1{
+    width: 607px;
+    height: 405px;
+    top: 285px;
+    font-size: 36px;
+    line-height: 45px;
+ }
+ .guide_text2{
+    width: 1150px;
+    height: 1030px;
+    top: 810px;
+    font-size: 36px;
+    line-height: 45px;
+ }
+ .guide_text3{
+    width: 607px;
+    height: 364px;
+    top: 2065px;
+    font-size: 36px;
+    line-height: 45px;
+ }
+  .comment_input{
+    width: 705px;
+    height: 65px;
+    left: 15px;
+    top: 2650px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 40px;
+ }
+ .comment_button{
+    width: 180px;
+    height: 65px;
+    left: 670px;
+    top: 2650px;
+    border-radius: 30px;
+    font-size: 33px;
+    line-height: 40px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 45px;
+    top: 2750px;
+    font-size: 37px;
+    line-height: 45px;
+ }
+ .comment_list{
+      margin-top:  2850px;
+  }
+  .comment_section{
+     height: 165px;
+  }
+   .comment_line{
+    width: 830px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 40px;
+    font-size: 34px;
+    line-height: 40px;
+ }
+ .comment_context{
+    width: 650px;
+    left: 175px;
+    height: 95px;
+    top: 33px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 23px;
+    top: 110px;
+    font-size: 23px;
+    line-height: 23px;
+ }
+}
+
+@media only screen and (max-width: 1398.99px) {
+.landing{
+    top:  1875px;
+}
+.spin{
+    top:  700px;
+}
+.news{
+    top: 1175px;
+}
+.us{
+    top: 1150px;
+}
+.guides{
+    top: 2520px;
+}
+  .central{
+   width: 1035px;
+  }
+  .header {
+     height: 74px;
+     padding-top: 3px;
+     padding-bottom: 4px;
+ }
+  .header_list{
+     margin-top:  15px;
+  }
+    .header-pic{
+     width: 37.5px;
+     height: 37.5px;
+  }
+  .header_item{
+     margin-right: 94px;
+  }
+  .header_link{
+     font-size: 30px;
+     line-height: 37.5px;
+  }
+   .det{
+    font-size: 20px;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    margin-left: 2.5px;
+ }
+   .footer{
+     height: 165px;
+     padding-top: 6px;
+     padding-bottom: 5px;
+ }
+    .footer-pic{
+     width: 62px;
+     height: 62px;
+  }
+  .footer_item{
+     margin-right: 172px;
+  }
+  .footer_link{
+     font-size: 25px;
+     line-height: 35px;
+  }
+ .logo_name{
+     font-size: 41px;
+     line-height: 49px;
+  }
+  .title_landing{
+    height: 104px;
+    top: 122px;
+    font-size: 41px;
+    line-height: 52px;
+    width: 821px;
+ }
+   .main_list{
+      margin-top:  290px;
+  }
+    .main_item{
+     margin-bottom: 55px;
+  }
+ .rec{
+     height: 450px;
+ }
+ .micro_champs_heading{
+    left: 48px;
+    top: 45px;
+    font-size: 41px;
+    line-height: 52px;
+    width: 442px;
+ }
+ .micro_champs-pic{
+    width: 446px;
+    height: 446px;
+ }
+ .micro_champs_text{
+    left: 48px;
+    top: 204px;
+    font-size: 20px;
+    line-height: 25px;
+    width: 367px;
+ }
+  .macro_heading{
+    right: 10px;
+    top: 45px;
+    font-size: 41px;
+    line-height: 52px;
+    width: 442px;
+ }
+ .macro-pic{
+    width: 446px;
+    height: 446px;
+ }
+ .macro_text{
+    right: 10px;
+    top: 204px;
+    font-size: 20px;
+    line-height: 25px;
+    width: 442px;
+ }
+ .circle{
+    width: 270px;
+    height: 270px;
+    top: 235px;
+ }
+ .caption{
+    width: 270px;
+    height: 68px;
+    top: 525px;
+ }
+ .caption_text{
+    width: 270px;
+    height: 19px;
+    font-size: 24px;
+    line-height: 20px;
+ }
+ .arrow{
+    top: 272.5px;
+    height: 195px;
+ }
+ .med_circle{
+    width: 195px;
+    height: 195px;
+ }
+ .triangle{
+    left: 240px;
+    width: 69px;
+    height: 82px;
+    font-size: 68px;
+    line-height: 82px;
+    top: 58px;
+ }
+ .lil_circle{
+    width: 19px;
+    height: 19px;
+    left: 307px;
+    top: 88.5px;
+ }
+ .headline{
+    top: 230px;
+ }
+ .line{
+    width: 1005px;
+ }
+ .news_list{
+      margin-top:  234px;
+  }
+ .news_link{
+     height: 260px;
+ }
+ .news-pic{
+    width: 185px;
+    height: 185px;
+    top: 40px;
+ }
+ .news_heading{
+    width: 588px;
+    height: 54px;
+    right: 120px;
+    top: 40px;
+    font-size: 43px;
+    line-height: 54px;
+ }
+ .news_text{
+    width: 588px;
+    height: 87px;
+    right: 120px;
+    top: 95px;
+    font-size: 26px;
+    line-height: 33px;
+ }
+ .news_data{
+    width: 102px;
+    height: 29px;
+    right: 20px;
+    top: 190px;
+    font-size: 22px;
+    line-height: 29px;
+ }
+ .search_input{
+    width: 740px;
+    height: 70px;
+    left: 115px;
+    top: 127px;
+ }
+ input[type="text"]{
+    padding-left: 30px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .search_button{
+    width: 150px;
+    height: 70px;
+    left: 765px;
+    top: 127px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .title_search{
+    width: 295px;
+    height: 40px;
+    top: 220px;
+    left: 144px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .search_list{
+      margin-top:  317px;
+      margin-left: 316px;
+  }
+    .search_item{
+     margin-bottom: 180px;
+  }
+ .search_form{
+     height: 100px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 418px;
+    height: 125px;
+    top: 109px;
+    padding-top: 37px;
+    border-radius: 25px;
+    font-size: 38px;
+    line-height: 50px;
+ }
+ .search-pic{
+    width: 418px;
+    height: 334px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 900px;
+    height: 355px;
+    top: 234px;
+ }
+ .supps_text{
+    width: 831px;
+    height: 369px;
+    top: 605px;
+    font-size: 33px;
+    line-height: 42px;
+ }
+ .guide-pic1{
+    width: 450px;
+    height: 450px;
+    top: 240px;
+ }
+ .guide-pic2{
+    width: 450px;
+    height: 450px;
+    top: 1795px;
+ }
+ .guide_text1{
+    width: 530px;
+    height: 460px;
+    top: 250px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+ .guide_text2{
+    width: 1050px;
+    height: 1030px;
+    top: 710px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+ .guide_text3{
+    width: 539px;
+    height: 320px;
+    top: 1805px;
+    font-size: 32px;
+    line-height: 40px;
+ }
+   .comment_input{
+    width: 605px;
+    height: 60px;
+    left: 15px;
+    top: 2350px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 35px;
+ }
+ .comment_button{
+    width: 170px;
+    height: 60px;
+    left: 570px;
+    top: 2350px;
+    border-radius: 30px;
+    font-size: 31px;
+    line-height: 35px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 40px;
+    top: 2450px;
+    font-size: 35px;
+    line-height: 40px;
+ }
+ .comment_list{
+      margin-top:  2550px;
+  }
+  .comment_section{
+     height: 155px;
+  }
+   .comment_line{
+    width: 720px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 35px;
+    font-size: 32px;
+    line-height: 35px;
+ }
+ .comment_context{
+    width: 575px;
+    left: 150px;
+    height: 91px;
+    top: 30px;
+    font-size: 25px;
+    line-height: 33px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 21px;
+    top: 105px;
+    font-size: 21px;
+    line-height: 21px;
+ }
+}
+
+@media only screen and (max-width: 1232.99px) {
+.landing{
+    top:  1665px;
+}
+.spin{
+    top:  625px;
+}
+.news{
+    top: 1075px;
+}
+.us{
+    top: 1025px;
+}
+.guides{
+    top: 2175px;
+}
+  .central{
+   width: 862px;
+  }
+  .header {
+     height: 64px;
+     padding-top: 2.5px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  13px;
+  }
+    .header-pic{
+     width: 32.5px;
+     height: 32.5px;
+  }
+  .header_item{
+     margin-right: 73px;
+  }
+  .header_link{
+     font-size: 26px;
+     line-height: 32.5px;
+  }
+   .det{
+    font-size: 19px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+ }
+   .footer{
+     height: 140px;
+     padding-top: 6px;
+     padding-bottom: 5px;
+ }
+    .footer-pic{
+     width: 57px;
+     height: 57px;
+  }
+  .footer_item{
+     margin-right: 147px;
+  }
+  .footer_link{
+     font-size: 20px;
+     line-height: 25px;
+  }
+ .logo_name{
+     font-size: 35px;
+     line-height: 42px;
+  }
+  .title_landing{
+    height: 84px;
+    top: 117px;
+    font-size: 35px;
+    line-height: 42px;
+    width: 721px;
+ }
+   .main_list{
+      margin-top:  265px;
+  }
+    .main_item{
+     margin-bottom: 50px;
+  }
+ .rec{
+     height: 400px;
+ }
+ .micro_champs_heading{
+    left: 48px;
+    top: 45px;
+    font-size: 35px;
+    line-height: 42px;
+    width: 442px;
+ }
+ .micro_champs-pic{
+    width: 396px;
+    height: 396px;
+ }
+ .micro_champs_text{
+    left: 48px;
+    top: 174px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 442px;
+ }
+  .macro_heading{
+    left:  433px;
+    top: 45px;
+    font-size: 35px;
+    line-height: 42px;
+    width: 442px;
+ }
+ .macro-pic{
+    width: 396px;
+    height: 396px;
+ }
+ .macro_text{
+    left:  433px;
+    top: 174px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 442px;
+ }
+ .circle{
+    width: 220px;
+    height: 220px;
+    top: 210px;
+ }
+ .caption{
+    width: 220px;
+    height: 55px;
+    top: 440px;
+ }
+ .caption_text{
+    width: 270px;
+    height: 15px;
+    font-size: 20px;
+    line-height: 25px;
+    bottom: 5px;
+ }
+ .arrow{
+    top: 240px;
+    height: 170px;
+ }
+ .med_circle{
+    width: 170px;
+    height: 170px;
+ }
+ .triangle{
+    left: 200px;
+    width: 69px;
+    height: 70px;
+    font-size: 56px;
+    line-height: 70px;
+    top: 43.5px;
+ }
+ .lil_circle{
+    width: 16px;
+    height: 16px;
+    left: 263px;
+    top: 77.5px;
+ }
+ .headline{
+    top: 220px;
+ }
+ .line{
+    width: 827px;
+ }
+ .news_list{
+      margin-top:  224px;
+  }
+ .news_link{
+     height: 240px;
+ }
+ .news-pic{
+    width: 165px;
+    height: 165px;
+    top: 42px;
+ }
+ .news_heading{
+    width: 492px;
+    height: 44px;
+    right: 85px;
+    top: 42px;
+    font-size: 35px;
+    line-height: 44px;
+ }
+ .news_text{
+    width: 492px;
+    height: 75px;
+    right: 85px;
+    top: 105px;
+    font-size: 20px;
+    line-height: 25px;
+ }
+ .news_data{
+    width: 102px;
+    height: 24px;
+    right: 10px;
+    top: 180px;
+    font-size: 19px;
+    line-height: 24px;
+ }
+ .search_input{
+    width: 640px;
+    height: 60px;
+    left: 95px;
+    top: 117px;
+ }
+ input[type="text"]{
+    padding-left: 25px;
+    padding-right: 110px;
+    font-size: 24px;
+    line-height: 30px;
+ }
+ .search_button{
+    width: 125px;
+    height: 60px;
+    left: 635px;
+    top: 117px;
+    font-size: 24px;
+    line-height: 30px;
+ }
+  .title_search{
+    width: 265px;
+    height: 40px;
+    top: 200px;
+    left: 119px;
+    font-size: 24px;
+    line-height: 30px;
+ }
+ .search_list{
+      margin-top:  278px;
+      margin-left: 254px;
+  }
+    .search_item{
+     margin-bottom: 132px;
+  }
+ .search_form{
+     height: 100px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 368px;
+    height: 110px;
+    top: 84px;
+    padding-top: 32px;
+    border-radius: 25px;
+    font-size: 34px;
+    line-height: 45px;
+ }
+ .search-pic{
+    width: 368px;
+    height: 294px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 750px;
+    height: 290px;
+    top: 214px;
+ }
+ .supps_text{
+    width: 705px;
+    height: 315px;
+    top: 525px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .guide-pic1{
+    width: 375px;
+    height: 375px;
+    top: 225px;
+ }
+ .guide-pic2{
+    width: 375px;
+    height: 375px;
+    top: 1505px;
+ }
+ .guide_text1{
+   width: 421px;
+    height: 248px;
+    top: 245px;
+     font-size: 25px;
+    line-height: 32px;
+ }
+ .guide_text2{
+    width: 833px;
+    height: 800px;
+    top: 620px;
+     font-size: 26px;
+    line-height: 33px;
+ }
+ .guide_text3{
+    width: 421px;
+    height: 248px;
+    top: 1530px;
+     font-size: 25px;
+    line-height: 32px;
+ }
+   .comment_input{
+    width: 505px;
+    height: 55px;
+    left: 15px;
+    top: 2000px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 25px;
+    padding-right: 60px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 30px;
+ }
+ .comment_button{
+    width: 145px;
+    height: 55px;
+    left: 470px;
+    top: 2000px;
+    border-radius: 30px;
+    font-size: 28px;
+    line-height: 30px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 2100px;
+    font-size: 32px;
+    line-height: 35px;
+ }
+ .comment_list{
+      margin-top:  2200px;
+  }
+  .comment_section{
+     height: 140px;
+  }
+   .comment_line{
+    width: 600px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 30px;
+    font-size: 29px;
+    line-height: 30px;
+ }
+ .comment_context{
+    width: 485px;
+    left: 121px;
+    height: 89px;
+    top: 33px;
+    font-size: 21px;
+    line-height: 28px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 21px;
+    top: 93px;
+    font-size: 17px;
+    line-height: 20px;
+ }
+}
+
+@media only screen and (max-width: 1028.99px) {
+.landing{
+    top:  1405px;
+}
+.spin{
+    top:  525px;
+}
+.news{
+    top: 925px;
+}
+.us{
+    top: 850px;
+}
+.guides{
+    top: 1820px;
+}
+  .central{
+   width: 738px;
+  }
+  .header {
+     height: 55px;
+     padding-top: 2.5px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  10px;
+  }
+    .header-pic{
+     width: 27.5px;
+     height: 27.5px;
+  }
+  .header_item{
+     margin-right: 62.5px;
+  }
+  .header_link{
+     font-size: 22px;
+     line-height: 27.5px;
+  }
+   .det{
+    font-size: 16px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+ }
+   .footer{
+     height: 120px;
+     padding-top: 7px;
+     padding-bottom: 5px;
+ }
+    .footer-pic{
+     width: 52px;
+     height: 52px;
+  }
+  .footer_item{
+     margin-right: 134px;
+  }
+  .footer_link{
+     font-size: 16px;
+     line-height: 20px;
+  }
+ .logo_name{
+     font-size: 29px;
+     line-height: 35px;
+  }
+  .title_landing{
+    height: 75px;
+    top: 100px;
+    font-size: 30px;
+    line-height: 37.5px;
+    width: 601px;
+ }
+   .main_list{
+      margin-top:  240px;
+  }
+    .main_item{
+     margin-bottom: 45px;
+  }
+ .rec{
+     height: 330px;
+ }
+ .micro_champs_heading{
+    left: 30px;
+    top: 35px;
+    font-size: 30px;
+    line-height: 37.5px;
+    width: 300px;
+ }
+ .micro_champs-pic{
+    width: 326px;
+    height: 326px;
+ }
+ .micro_champs_text{
+    left: 30px;
+    top: 144px;
+    font-size: 13px;
+    line-height: 17px;
+    width: 300px;
+ }
+  .macro_heading{
+    left:  375px;
+    top: 35px;
+    font-size: 30px;
+    line-height: 37.5px;
+    width: 300px;
+ }
+ .macro-pic{
+    width: 326px;
+    height: 326px;
+ }
+ .macro_text{
+    left:  375px;
+    top: 144px;
+    font-size: 13px;
+    line-height: 17px;
+   width: 300px;
+ }
+ .circle{
+    width: 185px;
+    height: 185px;
+    top: 180px;
+ }
+ .caption{
+    width: 180px;
+    height: 49px;
+    top: 375px;
+ }
+ .caption_text{
+    width: 270px;
+    height: 13px;
+    font-size: 17px;
+    line-height: 21px;
+    bottom: 5px;
+ }
+ .arrow{
+    top: 205px;
+    height: 140px;
+ }
+ .med_circle{
+    width: 140px;
+    height: 140px;
+ }
+ .triangle{
+    left: 170px;
+    width: 69px;
+    height: 70px;
+    font-size: 51px;
+    line-height: 64px;
+    top: 26px;
+ }
+ .lil_circle{
+    width: 14.5px;
+    height: 14.5px;
+    left: 225px;
+    top: 63px;
+ }
+ .headline{
+    top: 200px;
+ }
+ .line{
+    width: 705px;
+ }
+ .news_list{
+      margin-top:  204px;
+  }
+ .news_link{
+     height: 200px;
+ }
+ .news-pic{
+    width: 140px;
+    height: 140px;
+    top: 37px;
+ }
+ .news_heading{
+    width: 410px;
+    height: 37.5px;
+    right: 85px;
+    top: 37px;
+    font-size: 30px;
+    line-height: 37.5px;
+ }
+ .news_text{
+    width: 410px;
+    height: 60px;
+    right: 85px;
+    top: 92px;
+    font-size: 16px;
+    line-height: 20px;
+ }
+ .news_data{
+    width: 83px;
+    height: 18px;
+    right: 9px;
+    top: 151px;
+    font-size: 15px;
+    line-height: 18px;
+ }
+ .search_input{
+    width: 530px;
+    height: 52px;
+    left: 87px;
+    top: 100px;
+ }
+ input[type="text"]{
+    padding-left: 23px;
+    padding-right: 90px;
+    font-size: 21px;
+    line-height: 26px;
+ }
+ .search_button{
+    width: 110px;
+    height: 52px;
+    left: 535px;
+    top: 100px;
+    font-size: 21px;
+    line-height: 26px;
+ }
+   .title_search{
+    width: 245px;
+    height: 40px;
+    top: 170px;
+    left: 109px;
+    font-size: 21px;
+    line-height: 26px;
+ }
+ .search_list{
+      margin-top:  230px;
+      margin-left: 221px;
+  }
+    .search_item{
+     margin-bottom: 95px;
+  }
+ .search_form{
+     height: 90px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 308px;
+    height: 92px;
+    top: 64px;
+    padding-top: 26px;
+    border-radius: 25px;
+    font-size: 28px;
+    line-height: 40px;
+ }
+ .search-pic{
+    width: 308px;
+    height: 246px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 635px;
+    height: 250px;
+    top: 184px;
+ }
+ .supps_text{
+    width: 579px;
+    height: 261px;
+    top: 460px;
+    font-size: 23px;
+    line-height: 29px;
+ }
+ .guide-pic1{
+    width: 320px;
+    height: 320px;
+    top: 200px;
+ }
+ .guide-pic2{
+    width: 320px;
+    height: 320px;
+    top: 1265px;
+ }
+ .guide_text1{
+   width: 354px;
+    height: 208px;
+    top: 220px;
+     font-size: 21px;
+    line-height: 27px;
+ }
+ .guide_text2{
+    width: 708px;
+    height: 710px;
+    top: 540px;
+     font-size: 21px;
+    line-height: 27px;
+ }
+ .guide_text3{
+    width: 354px;
+    height: 208px;
+    top: 1280px;
+     font-size: 21px;
+    line-height: 27px;
+ }
+   .comment_input{
+    width: 425px;
+    height: 50px;
+    left: 15px;
+    top: 1680px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 24px;
+    line-height: 30px;
+ }
+ .comment_button{
+    width: 130px;
+    height: 50px;
+    left: 394px;
+    top: 1680px;
+    border-radius: 30px;
+    font-size: 24px;
+    line-height: 30px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 1770px;
+    font-size: 28px;
+    line-height: 35px;
+ }
+ .comment_list{
+      margin-top:  1850px;
+  }
+  .comment_section{
+     height: 120px;
+  }
+   .comment_line{
+    width: 505px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 30px;
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .comment_context{
+    width: 405px;
+    left: 111px;
+    height: 75px;
+    top: 28px;
+    font-size: 17px;
+    line-height: 25px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 21px;
+    top: 82px;
+    font-size: 14px;
+    line-height: 20px;
+ }
+}
+@media only screen and (max-width: 883.99px) {
+.landing{
+    top:  1270px;
+}
+.spin{
+    top:  450px;
+}
+.news{
+    top: 835px;
+}
+.us{
+    top: 735px;
+}
+.guides{
+    top: 1625px;
+}
+  .central{
+   width: 650px;
+  }
+  .header {
+     height: 48px;
+     padding-top: 2.5px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  9px;
+  }
+    .header-pic{
+     width: 24px;
+     height: 24px;
+  }
+  .header_item{
+     margin-right: 55.5px;
+  }
+  .header_link{
+     font-size: 19px;
+     line-height: 24px;
+  }
+   .det{
+    font-size: 14.5px;
+    margin-top: 1.5px;
+    margin-bottom: 1.5px;
+    margin-left: 1.5px;
+ }
+   .footer{
+     height: 105px;
+     padding-top: 8px;
+     padding-bottom: 5px;
+ }
+    .footer-pic{
+     width: 46px;
+     height: 46px;
+  }
+  .footer_item{
+     margin-right: 106px;
+  }
+  .footer_link{
+     font-size: 15px;
+     line-height: 19px;
+  }
+ .logo_name{
+     font-size: 26px;
+     line-height: 31px;
+  }
+  .title_landing{
+    height: 66px;
+    top: 90px;
+    font-size: 26px;
+    line-height: 32.5px;
+    width: 521px;
+ }
+   .main_list{
+      margin-top:  210px;
+  }
+    .main_item{
+     margin-bottom: 40px;
+  }
+ .rec{
+     height: 290px;
+ }
+ .micro_champs_heading{
+    left: 30px;
+    top: 35px;
+    font-size: 27px;
+    line-height: 34px;
+    width: 287px;
+ }
+ .micro_champs-pic{
+    width: 286px;
+    height: 286px;
+ }
+ .micro_champs_text{
+    left: 30px;
+    top: 129px;
+    font-size: 12.5px;
+    line-height: 16px;
+    width: 287px;
+ }
+  .macro_heading{
+    left:  330px;
+    top: 35px;
+    font-size: 27px;
+    line-height: 34px;
+    width: 287px;
+ }
+ .macro-pic{
+    width: 286px;
+    height: 286px;
+ }
+ .macro_text{
+    left:  330px;
+    top: 127px;
+    font-size: 12.5px;
+    line-height: 16px;
+   width: 287px;
+ }
+ .circle{
+    width: 165px;
+    height: 165px;
+    top: 160px;
+ }
+ .caption{
+    width: 165px;
+    height: 44px;
+    top: 330px;
+ }
+ .caption_text{
+    width: 160px;
+    height: 11px;
+    font-size: 15.5px;
+    line-height: 19.5px;
+    bottom: 5px;
+ }
+ .arrow{
+    top: 180px;
+    height: 125px;
+ }
+ .med_circle{
+    width: 125px;
+    height: 125px;
+ }
+ .triangle{
+    left: 150px;
+    width: 69px;
+    height: 70px;
+    font-size: 48px;
+    line-height: 60px;
+    top: 17px;
+ }
+ .lil_circle{
+    width: 13.5px;
+    height: 13.5px;
+    left: 200px;
+    top: 56px;
+ }
+ .headline{
+    top: 180px;
+ }
+ .line{
+    width: 619.5px;
+ }
+ .news_list{
+      margin-top:  184px;
+  }
+ .news_link{
+     height: 180px;
+ }
+ .news-pic{
+    width: 125px;
+    height: 125px;
+    top: 33px;
+ }
+ .news_heading{
+    width: 349px;
+    height: 34px;
+    right: 85px;
+    top: 33px;
+    font-size: 25.5px;
+    line-height: 32px;
+ }
+ .news_text{
+    width: 349px;
+    height: 60px;
+    right: 85px;
+    top: 84px;
+    font-size: 14.5px;
+    line-height: 18px;
+ }
+ .news_data{
+    width: 83px;
+    height: 17px;
+    right: 7.5px;
+    top: 135px;
+    font-size: 13px;
+    line-height: 17px;
+ }
+ .search_input{
+    width: 470px;
+    height: 45px;
+    left: 77px;
+    top: 85px;
+ }
+ input[type="text"]{
+    padding-left: 19px;
+    padding-right: 75px;
+    font-size: 18px;
+    line-height: 23px;
+ }
+ .search_button{
+    width: 95px;
+    height: 45px;
+    left: 473px;
+    top: 85px;
+    font-size: 18px;
+    line-height: 23px;
+ }
+    .title_search{
+    width: 235px;
+    height: 23px;
+    top: 145px;
+    left: 95px;
+    font-size: 18px;
+    line-height: 23px;
+ }
+ .search_list{
+      margin-top:  196px;
+      margin-left: 198px;
+  }
+    .search_item{
+     margin-bottom: 55px;
+  }
+ .search_form{
+     height: 90px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 264px;
+    height: 79px;
+    top: 42px;
+    padding-top: 23px;
+    border-radius: 25px;
+    font-size: 24px;
+    line-height: 35px;
+ }
+ .search-pic{
+    width: 264px;
+    height: 211px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 555px;
+    height: 220px;
+    top: 170px;
+ }
+ .supps_text{
+    width: 504px;
+    height: 225px;
+    top: 416px;
+    font-size: 20px;
+    line-height: 25px;
+ }
+ .guide-pic1{
+    width: 290px;
+    height: 290px;
+    top: 180px;
+ }
+ .guide-pic2{
+    width: 290px;
+    height: 290px;
+    top: 1130px;
+ }
+ .guide_text1{
+   width: 320px;
+    height: 192px;
+    top: 200px;
+     font-size: 19px;
+    line-height: 24px;
+ }
+ .guide_text2{
+    width: 599.5px;
+    height: 624px;
+    top: 485px;
+     font-size: 19px;
+    line-height: 24px;
+ }
+ .guide_text3{
+     width: 320px;
+    height: 192px;
+    top: 1127px;
+     font-size: 19px;
+    line-height: 24px;
+ }
+ .Gragas{
+   background-image: url(./images/errorgrag2.jpg);
+ }
+   .comment_input{
+    width: 370px;
+    height: 45px;
+    left: 15px;
+    top: 1500px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 15px;
+    padding-right: 45px;
+    font-size: 21px;
+    line-height: 25px;
+ }
+ .comment_button{
+    width: 115px;
+    height: 45px;
+    left: 345px;
+    top: 1500px;
+    border-radius: 30px;
+    font-size: 21px;
+    line-height: 25px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 1580px;
+    font-size: 25px;
+    line-height: 30px;
+ }
+ .comment_list{
+      margin-top:  1650px;
+  }
+  .comment_section{
+     height: 102px;
+  }
+   .comment_line{
+    width: 445px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 25px;
+    font-size: 22px;
+    line-height: 25px;
+ }
+ .comment_context{
+    width: 335px;
+    left: 111px;
+    height: 75px;
+    top: 25px;
+    font-size: 14px;
+    line-height: 20px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 21px;
+    top: 68px;
+    font-size: 12.5px;
+    line-height: 15px;
+ }
+}
+
+@media only screen and (max-width: 774.99px) {
+.landing{
+    top:  1050px;
+}
+.spin{
+    top:  400px;
+}
+.news{
+    top: 735px;
+}
+.us{
+    top: 635px;
+}
+.guides{
+    top: 1340px;
+}
+  .central{
+   width: 528px;
+  }
+  .header {
+     height: 39px;
+     padding-top: 2px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  8px;
+  }
+    .header-pic{
+     width: 20px;
+     height: 20px;
+  }
+  .header_item{
+     margin-right: 42px;
+  }
+  .header_link{
+     font-size: 16px;
+     line-height: 20px;
+  }
+   .det{
+    font-size: 12px;
+    margin-top: 1.5px;
+    margin-bottom: 1.5px;
+    margin-left: 1.5px;
+ }
+   details{
+      border-radius: 10px;
+   }
+   .footer{
+     height: 89px;
+     padding-top: 8px;
+ }
+    .footer-pic{
+     width: 40px;
+     height: 40px;
+  }
+  .footer_item{
+     margin-right: 71px;
+  }
+  .footer_link{
+     font-size: 13px;
+     line-height: 16px;
+  }
+ .logo_name{
+     font-size: 24px;
+     line-height: 29px;
+  }
+  .title_landing{
+    height: 54px;
+    top: 75px;
+    font-size: 21px;
+    line-height: 27px;
+    width: 421px;
+ }
+   .main_list{
+      margin-top:  180px;
+  }
+    .main_item{
+     margin-bottom: 35px;
+  }
+ .rec{
+     height: 240px;
+ }
+ .micro_champs_heading{
+    left: 20px;
+    top: 20px;
+    font-size: 23px;
+    line-height: 39px;
+    width: 228px;
+    height: 78px;
+ }
+ .micro_champs-pic{
+    width: 236px;
+    height: 236px;
+ }
+ .micro_champs_text{
+    left: 20px;
+    top: 110px;
+    font-size: 10.5px;
+    line-height: 14px;
+   width: 195px;
+ }
+  .macro_heading{
+    left:  258px;
+    top: 20px;
+    font-size: 23px;
+    line-height: 39px;
+    width: 228px;
+ }
+ .macro-pic{
+    width: 236px;
+    height: 236px;
+ }
+ .macro_text{
+    left:  258px;
+    top: 110px;
+    font-size: 10.5px;
+    line-height: 14px;
+   width: 187px;
+ }
+ .circle{
+    width: 135px;
+    height: 135px;
+    top: 128px;
+ }
+ .caption{
+    width: 135px;
+    height: 34px;
+    top: 266px;
+ }
+ .caption_text{
+    width: 135px;
+    height: 9px;
+    font-size: 13px;
+    line-height: 16.5px;
+    bottom: 4px;
+ }
+ .arrow{
+    top: 146px;
+    height: 103px;
+ }
+ .med_circle{
+    width: 105px;
+    height: 105px;
+ }
+ .triangle{
+    left: 115px;
+    width: 69px;
+    height: 63px;
+    font-size: 40px;
+    line-height: 53px;
+    top: 7px;
+ }
+ .lil_circle{
+    width: 11.5px;
+    height: 11.5px;
+    left: 162px;
+    top: 47px;
+ }
+ .headline{
+    top: 145px;
+ }
+ .line{
+    width: 497.5px;
+ }
+ .news_list{
+      margin-top:  149px;
+  }
+ .news_link{
+     height: 160px;
+ }
+ .news-pic{
+    width: 105px;
+    height: 105px;
+    top: 31px;
+ }
+ .news_heading{
+    width: 287px;
+    height: 33px;
+    right: 60px;
+    top: 31px;
+    font-size: 21px;
+    line-height: 26.5px;
+ }
+ .news_text{
+    width: 287px;
+    height: 48px;
+    right: 60px;
+    top: 74px;
+    font-size: 12.5px;
+    line-height: 16px;
+ }
+ .news_data{
+    width: 50px;
+    height: 14px;
+    right: 10px;
+    top: 121px;
+    font-size: 11px;
+    line-height: 14px;
+ }
+ .search_input{
+    width: 360px;
+    height: 37px;
+    left: 62px;
+    top: 70px;
+ }
+ input[type="text"]{
+    padding-left: 15px;
+    padding-right: 45px;
+    font-size: 15px;
+    line-height: 19px;
+ }
+ .search_button{
+    width: 75px;
+    height: 37px;
+    left: 382px;
+    top: 70px;
+    font-size: 15px;
+    line-height: 19px;
+ }
+     .title_search{
+    width: 215px;
+    height: 19px;
+    top: 127px;
+    left: 77px;
+    font-size: 15px;
+    line-height: 19px;
+ }
+ .search_list{
+      margin-top:  170px;
+      margin-left: 153px;
+  }
+    .search_item{
+     margin-bottom: 65px;
+  }
+ .search_form{
+     height: 70px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 231px;
+    height: 69px;
+    top: 46px;
+    padding-top: 20px;
+    border-radius: 25px;
+    font-size: 21px;
+    line-height: 30px;
+ }
+ .search-pic{
+    width: 231px;
+    height: 185px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 445px;
+    height: 185px;
+    top: 150px;
+ }
+ .supps_text{
+    width: 403px;
+    height: 180px;
+    top: 360px;
+    font-size: 16px;
+    line-height: 20px;
+ }
+ .guide-pic1{
+    width: 240px;
+    height: 240px;
+    top: 155px;
+ }
+ .guide-pic2{
+    width: 240px;
+    height: 240px;
+    top: 915px;
+ }
+ .guide_text1{
+   width: 253px;
+    height: 152px;
+    top: 172px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .guide_text2{
+    width: 497px;
+    height: 494px;
+    top: 410px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .guide_text3{
+     width: 253px;
+    height: 152px;
+    top: 930px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .comment_input{
+    width: 300px;
+    height: 40px;
+    left: 15px;
+    top: 1215px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 15px;
+    padding-right: 45px;
+    font-size: 18px;
+    line-height: 20px;
+ }
+ .comment_button{
+    width: 100px;
+    height: 40px;
+    left: 275px;
+    top: 1215px;
+    border-radius: 30px;
+    font-size: 18px;
+    line-height: 20px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 1280px;
+    font-size: 22px;
+    line-height: 25px;
+ }
+ .comment_list{
+      margin-top:  1340px;
+  }
+  .comment_section{
+     height: 90px;
+  }
+   .comment_line{
+    width: 360px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 20px;
+    font-size: 19px;
+    line-height: 20px;
+ }
+ .comment_context{
+    width: 275px;
+    left: 85px;
+    height: 55px;
+    top: 22px;
+    font-size: 12px;
+    line-height: 18px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 21px;
+    top: 60px;
+    font-size: 10.5px;
+    line-height: 15px;
+ }
+}
+
+@media only screen and (max-width: 623.99px) {
+.landing{
+    top:  900px;
+}
+.spin{
+    top:  480px;
+}
+.news{
+    top: 900px;
+}
+.us{
+    top: 650px;
+}
+.guides{
+    top: 1500px;
+}
+ .central{
+   width: 447px;
+ } 
+  .header {
+     height: 39px;
+     padding-top: 2px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  8px;
+  }
+    .header-pic{
+     width: 17.5px;
+     height: 17.5px;
+  }
+  .header_item{
+     margin-right: 33px;
+  }
+  .header_link{
+     font-size: 14px;
+     line-height: 17.5px;
+  }
+   .det{
+    font-size: 10.5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+ }
+   details{
+      border-radius: 9px;
+   }
+   .footer{
+     height: 73px;
+     padding-top: 8px;
+ }
+    .footer-pic{
+     width: 35px;
+     height: 35px;
+  }
+  .footer_item{
+     margin-right: 57px;
+  }
+  .footer_link{
+     font-size: 11px;
+     line-height: 14px;
+  }
+ .logo_name{
+     font-size: 20px;
+     line-height: 25px;
+  }
+  .title_landing{
+    height: 48px;
+    top: 75px;
+    font-size: 19px;
+    line-height: 24px;
+    width: 400px;
+ }
+   .main_list{
+      margin-top:  180px;
+  }
+    .main_item{
+     margin-bottom: 30px;
+  }
+ .rec{
+     height: 200px;
+ }
+ .micro_champs_heading{
+    left: 30px;
+    top: 40px;
+    font-size: 23px;
+    line-height: 39px;
+    width: 200px;
+    height: 117px;
+ }
+ .micro_champs-pic{
+    width: 196px;
+    height: 196px;
+ }
+ .micro_champs_text{
+    display: none;
+ }
+  .macro_heading{
+    left:  235px;
+    top: 40px;
+    font-size: 23px;
+    line-height: 39px;
+    width: 200px;
+    height: 117px;
+ }
+ .macro-pic{
+    width: 196px;
+    height: 196px;
+ }
+ .macro_text{
+   display: none;
+ }
+ .circle{
+    width: 185px;
+    height: 185px;
+    top: 168px;
+ }
+ .caption{
+    width: 185px;
+    height: 45px;
+    top: 378px;
+ }
+ .caption_text{
+    width: 185px;
+    height: 9px;
+    font-size: 17px;
+    line-height: 23px;
+    bottom: 7px;
+ }
+ .arrow{
+    top: 220px;
+    height: 103px;
+ }
+ .med_circle{
+    display: none;
+ }
+ .triangle{
+    left: 0px;
+    width: 69px;
+    height: 63px;
+    font-size: 40px;
+    line-height: 53px;
+    top: 6px;
+ }
+ .lil_circle{
+    width: 11.5px;
+    height: 11.5px;
+    left: 47px;
+    top: 46px;
+ }
+ .left{
+    left: 2px;
+ }
+ .right{
+    right: 2px;
+ }
+ .headline{
+    top: 160px;
+ }
+ .line{
+    width: 413px;
+ }
+ .news_list{
+      margin-top:  164px;
+  }
+ .news_link{
+     height: 125px;
+ }
+ .news-pic{
+    width: 105px;
+    height: 105px;
+    top: 14px;
+ }
+ .news_heading{
+    width: 230px;
+    height: 33px;
+    right: 20px;
+    top: 37px;
+    font-size: 21px;
+    line-height: 26.5px;
+ }
+ .news_text{
+    display: none;
+ }
+ .news_data{
+    width: 50px;
+    height: 14px;
+    right: 10px;
+    top: 91px;
+    font-size: 11px;
+    line-height: 14px;
+ }
+ .search_input{
+    width: 350px;
+    height: 47px;
+    left: 42px;
+    top: 70px;
+ }
+ input[type="text"]{
+    padding-left: 15px;
+    padding-right: 90px;
+    font-size: 18px;
+    line-height: 21px;
+ }
+ .search_button{
+    width: 90px;
+    height: 47px;
+    left: 302px;
+    top: 70px;
+    font-size: 18px;
+    line-height: 21px;
+ }
+     .title_search{
+    width: 155px;
+    height: 19px;
+    top: 140px;
+    left: 56px;
+    font-size: 18px;
+    line-height: 21px;
+ }
+ .search_list{
+      margin-top:  203px;
+      margin-left: 107px;
+  }
+    .search_item{
+     margin-bottom: 100px;
+  }
+ .search_form{
+     height: 70px;
+     border-radius: 45px;
+ }
+ .search_heading{
+    width: 231px;
+    height: 69px;
+    top: 46px;
+    padding-top: 20px;
+    border-radius: 25px;
+    font-size: 21px;
+    line-height: 30px;
+ }
+ .search-pic{
+    width: 231px;
+    height: 185px;
+    border-radius: 45px;
+ }
+ .supps-pic{
+    width: 390px;
+    height: 185px;
+    top: 165px;
+ }
+ .supps_text{
+    width: 403px;
+    height: 180px;
+    top: 410px;
+    font-size: 16px;
+    line-height: 20px;
+ }
+ .guide-pic1{
+    width: 416px;
+    height: 195px;
+    top: 255px;
+ }
+ .guide-pic2{
+    width: 416px;
+    height: 195px;
+    top: 1050px;
+ }
+ .guide_text1{
+   width: 416px;
+    height: 152px;
+    top: 132px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .guide_text2{
+    width: 416px;
+    height: 494px;
+    top: 448px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .guide_text3{
+     width: 416px;
+    height: 152px;
+    top: 1245px;
+     font-size: 15px;
+    line-height: 19px;
+ }
+ .comment_input{
+    width: 300px;
+    height: 35px;
+    left: 15px;
+    top: 1400px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 15px;
+    padding-right: 45px;
+    font-size: 17px;
+    line-height: 20px;
+ }
+ .comment_button{
+    width: 90px;
+    height: 35px;
+    left: 275px;
+    top: 1400px;
+    border-radius: 30px;
+    font-size: 17px;
+    line-height: 20px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 1450px;
+    font-size: 20px;
+    line-height: 25px;
+ }
+ .comment_list{
+      margin-top:  1500px;
+  }
+  .comment_section{
+     height: 85px;
+  }
+   .comment_line{
+    width: 347px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 20px;
+ }
+ .comment_context{
+    width: 275px;
+    left: 75px;
+    height: 55px;
+    top: 19px;
+    font-size: 12px;
+    line-height: 18px;
+ }
+ .comment_data{
+   opacity: 0.5;
+    width: 180px;
+    height: 21px;
+    top: 57px;
+    font-size: 10.5px;
+    line-height: 15px;
+ }
+}
+
+@media only screen and (max-width: 522.99px) {
+   .spin{
+    top:  450px;
+}
+.search{
+    top: 190px;
+}
+.us{
+   top:  530px;
+}
+.guides{
+    top: 1410px;
+}
+  .central{
+   width: 349px;
+  }
+  .header {
+     height: 35px;
+     padding-top: 1.5px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  7px;
+  }
+    .header-pic{
+     width: 15.5px;
+     height: 15.5px;
+  }
+  .header_item{
+     margin-right: 20.5px;
+  }
+  .header_link{
+     font-size: 12px;
+     line-height: 15.5px;
+  }
+   .det{
+    font-size: 9px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+ }
+   details{
+      border-radius: 8px;
+   }
+   .footer{
+     height: 73px;
+     padding-top: 8px;
+ }
+    .footer-pic{
+     width: 31px;
+     height: 31px;
+  }
+  .footer_item{
+     margin-right: 33px;
+  }
+  .footer_link{
+     font-size: 9px;
+     line-height: 12px;
+  }
+ .logo_name{
+     font-size: 18px;
+     line-height: 23px;
+  }
+  .title_landing{
+    height: 38px;
+    top: 75px;
+    font-size: 15px;
+    line-height: 19px;
+    width: 301px;
+ }
+   .main_list{
+      margin-top:  180px;
+  }
+    .main_item{
+     margin-bottom: 35px;
+  }
+ .rec{
+     height: 160px;
+ }
+ .micro_champs_heading{
+    left: 30px;
+    top: 40px;
+    font-size: 19px;
+    line-height: 24px;
+    width: 150px;
+    height: 90px;
+ }
+ .micro_champs-pic{
+    width: 156px;
+    height: 156px;
+ }
+  .macro_heading{
+    left:  175px;
+    top: 40px;
+    font-size: 19px;
+    line-height: 24px;
+    width: 150px;
+    height: 90px;
+ }
+ .macro-pic{
+    width: 156px;
+    height: 156px;
+ }
+ .circle{
+    width: 185px;
+    height: 185px;
+    top: 158px;
+ }
+ .caption{
+    width: 185px;
+    height: 45px;
+    top: 368px;
+ }
+ .caption_text{
+    height: 9px;
+    font-size: 17px;
+    line-height: 23px;
+    bottom: 7px;
+ }
+ .arrow{
+    top: 200px;
+    height: 103px;
+ }
+ .triangle{
+    left: 0px;
+    width: 69px;
+    height: 63px;
+    font-size: 40px;
+    line-height: 53px;
+    top: 6px;
+ }
+ .lil_circle{
+    width: 11.5px;
+    height: 11.5px;
+    left: 47px;
+    top: 46px;
+ }
+ .left{
+    left: 1px;
+ }
+ .right{
+    right: 1px;
+ }
+ .headline{
+    top: 150px;
+ }
+ .line{
+    width: 317px;
+ }
+ .news_list{
+      margin-top:  154px;
+  }
+ .news_link{
+     height: 120px;
+ }
+ .news-pic{
+    width: 95px;
+    height: 95px;
+    top: 16px;
+ }
+ .news_heading{
+    width: 183px;
+    height: 44px;
+    right: 7px;
+    top: 39px;
+    font-size: 17px;
+    line-height: 22px;
+ }
+ .news_data{
+    width: 50px;
+    height: 12px;
+    right: 5px;
+    top: 91px;
+    font-size: 9.5px;
+    line-height: 12px;
+ }
+ .search_input{
+    width: 250px;
+    height: 40px;
+    left: 37px;
+    top: 70px;
+ }
+ input[type="text"]{
+    padding-left: 12px;
+    padding-right: 60px;
+    font-size: 16px;
+    line-height: 19px;
+ }
+ .search_button{
+    width: 80px;
+    height: 40px;
+    left: 231px;
+    top: 70px;
+    font-size: 16px;
+    line-height: 19px;
+ }
+     .title_search{
+    width: 155px;
+    height: 19px;
+    top: 130px;
+    left: 49px;
+    font-size: 16px;
+    line-height: 19px;
+ }
+ .search_list{
+      margin-top:  188px;
+      margin-left: 77px;
+  }
+    .search_item{
+     margin-bottom: 85px;
+  }
+ .search_form{
+     height: 55px;
+     border-radius: 40px;
+ }
+ .search_heading{
+    width: 193px;
+    height: 58px;
+    top: 42px;
+    padding-top: 17px;
+    border-radius: 20px;
+    font-size: 17px;
+    line-height: 25px;
+ }
+ .search-pic{
+    width: 193px;
+    height: 154px;
+    border-radius: 40px;
+ }
+ .supps-pic{
+    width: 302px;
+    height: 136px;
+    top: 165px;
+ }
+ .supps_text{
+    width: 302px;
+    top: 350px;
+    font-size: 12px;
+    line-height: 15px;
+ }
+ .guide-pic1{
+    width: 319px;
+    height: 155px;
+    top: 255px;
+ }
+ .guide-pic2{
+    width: 319px;
+    height: 155px;
+    top: 1010px;
+ }
+ .guide_text1{
+   width: 319px;
+    height: auto;
+    top: 132px;
+     font-size: 13px;
+    line-height: 16.5px;
+ }
+ .guide_text2{
+    width: 319px;
+    height: auto;
+    top: 418px;
+     font-size: 13px;
+    line-height: 16.5px;
+ }
+ .guide_text3{
+    width: 319px;
+    height: auto;
+    top: 1175px;
+     font-size: 13px;
+    line-height: 16.5px;
+ }
+ .comment_input{
+    width: 230px;
+    height: 35px;
+    left: 15px;
+    top: 1335px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 10px;
+    padding-right: 35px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_button{
+    width: 70px;
+    height: 35px;
+    left: 215px;
+    top: 1335px;
+    border-radius: 30px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_title{
+    width: 200px;
+    height: 35px;
+    top: 1375px;
+    font-size: 16px;
+    line-height: 20px;
+ }
+ .comment_list{
+      margin-top:  1415px;
+  }
+  .comment_section{
+     height: 70px;
+  }
+   .comment_line{
+    width: 270px;
+ }
+ .comment_name{
+    width: 352px;
+    height: 20px;
+    font-size: 15px;
+    line-height: 20px;
+ }
+ .comment_context{
+    width: 210px;
+    left: 62px;
+    height: 39px;
+    top: 22px;
+    font-size: 9px;
+    line-height: 13px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 15px;
+    top: 47px;
+    font-size: 7.7px;
+    line-height: 15px;
+ }
+}
+
+@media only screen and (max-width: 386.99px) {
+   .landing{
+    top:  800px;
+}
+.spin{
+    top:  420px;
+}
+.news{
+    top:800px;
+}
+.us{
+    top: 500px;
+}
+.search{
+    top: 150px;
+}
+.guides{
+    top: 1190px;
+}
+  .central{
+   width: 304px;
+  }
+  .header {
+     height: 31px;
+     padding-top: 1.5px;
+     padding-bottom: 3.5px;
+ }
+  .header_list{
+     margin-top:  7px;
+  }
+    .header-pic{
+     width: 14px;
+     height: 14px;
+  }
+  .header_item{
+     margin-right: 15px;
+  }
+  .header_link{
+     font-size: 11px;
+     line-height: 14px;
+  }
+   .det{
+    font-size: 8px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+ }
+   details{
+      border-radius: 7px;
+   }
+   .footer{
+     height: 65px;
+     padding-top: 8px;
+ }
+    .footer-pic{
+     width: 27px;
+     height: 27px;
+  }
+  .footer_item{
+     margin-right: 20px;
+  }
+  .footer_link{
+     font-size: 8.5px;
+     line-height: 12px;
+  }
+ .logo_name{
+     font-size: 16px;
+     line-height: 20px;
+  }
+  .title_landing{
+    height: 32px;
+    top: 75px;
+    font-size: 13px;
+    line-height: 16.25px;
+    width: 261px;
+ }
+   .main_list{
+      margin-top:  160px;
+  }
+    .main_item{
+     margin-bottom: 40px;
+  }
+ .rec{
+     height: 130px;
+ }
+ .micro_champs_heading{
+    left: 15px;
+    top: 35px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 110px;
+    height: 60px;
+ }
+ .micro_champs-pic{
+    width: 126px;
+    height: 126px;
+ }
+  .macro_heading{
+    left:  150px;
+    top: 35px;
+    font-size: 16px;
+    line-height: 20px;
+    width: 110px;
+    height: 60px;
+ }
+ .macro-pic{
+    width: 126px;
+    height: 126px;
+ }
+ .circle{
+    width: 165px;
+    height: 165px;
+    top: 160px;
+ }
+ .caption{
+    width: 165px;
+    height: 42px;
+    top: 338px;
+ }
+ .caption_text{
+    width: 176px;
+    height: 9px;
+    font-size: 15px;
+    line-height: 20px;
+    bottom: 6px;
+ }
+ .arrow{
+    top: 200px;
+    height: 103px;
+ }
+ .triangle{
+    left: 0px;
+    width: 69px;
+    height: 63px;
+    font-size: 40px;
+    line-height: 53px;
+    top: 5.75px;
+ }
+ .lil_circle{
+    width: 11.5px;
+    height: 11.5px;
+    left: 47px;
+    top: 45.75px;
+ }
+ .left{
+    left: 1px;
+ }
+ .right{
+    right:1px;
+ }
+ .headline{
+    top: 145px;
+ }
+ .line{
+    width: 269px;
+ }
+ .news_list{
+      margin-top:  149px;
+  }
+ .news_link{
+     height: 110px;
+ }
+ .news-pic{
+    width: 85px;
+    height: 85px;
+    top: 15px;
+ }
+ .news_heading{
+    width: 155px;
+    height: 37px;
+    font-size: 14.5px;
+    line-height: 18.5px;
+ }
+ .news_data{
+    width: 50px;
+    height: 11px;
+    right: 1px;
+    top: 83px;
+    font-size: 8.5px;
+    line-height: 11px;
+ }
+ .search_input{
+    width: 200px;
+    height: 35px;
+    left: 40px;
+    top: 60px;
+ }
+ input[type="text"]{
+    padding-left: 10px;
+    font-size: 14px;
+    line-height: 17px;
+ }
+ .search_button{
+    width: 70px;
+    height: 35px;
+    left: 193px;
+    top: 60px;
+    font-size: 14px;
+    line-height: 17px;
+ }
+     .title_search{
+    width: 155px;
+    height: 17px;
+    top: 115px;
+    left: 50px;
+    font-size: 14px;
+    line-height: 17px;
+ }
+ .search_list{
+      margin-top:  170px;
+      margin-left: 79px;
+  }
+    .search_item{
+     margin-bottom: 55px;
+  }
+ .search_form{
+     height: 45px;
+     border-radius: 30px;
+ }
+ .search_heading{
+    width: 144px;
+    height: 43px;
+    top: 27px;
+    padding-top: 13px;
+    border-radius: 16px;
+    font-size: 13px;
+    line-height: 20px;
+ }
+ .search-pic{
+    width: 144px;
+    height: 115px;
+    border-radius: 30px;
+ }
+ .supps-pic{
+    width: 257px;
+    height: 120px;
+    top: 155px;
+ }
+ .supps_text{
+    width: 252px;
+    top: 310px;
+    font-size: 10px;
+    line-height: 12.5px;
+ }
+ .guide-pic1{
+    width: 272.5px;
+    height: 135px;
+    top: 225px;
+ }
+ .guide-pic2{
+    width: 272.5px;
+    height: 135px;
+    top: 847px;
+ }
+ .guide_text1{
+   width: 272.5px;
+    height: auto;
+    top: 122px;
+     font-size: 11px;
+    line-height: 14px;
+ }
+ .guide_text2{
+    width: 272.5px;
+    height: auto;
+    top: 360px;
+     font-size: 11px;
+    line-height: 14px;
+ }
+ .guide_text3{
+    width: 272.5px;
+    height: auto;
+    top: 985px;
+     font-size: 11px;
+    line-height: 14px;
+ }
+ .comment_input{
+    width: 230px;
+    height: 35px;
+    left: 15px;
+    top: 1115px;
+    border-radius: 30px;
+ }
+ input[class="comment_input"]{
+    padding-left: 10px;
+    padding-right: 35px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_button{
+    width: 70px;
+    height: 35px;
+    left: 216px;
+    top: 1115px;
+    border-radius: 30px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_title{
+    width: 100px;
+    height: 35px;
+    top: 1155px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_list{
+      margin-top:  1185px;
+  }
+  .comment_section{
+     height: 70px;
+  }
+   .comment_line{
+    width: 270px;
+ }
+ .comment_name{
+    width: 302px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 15px;
+ }
+ .comment_context{
+    width: 210px;
+    left: 62px;
+    height: 39px;
+    top: 22px;
+    font-size: 9px;
+    line-height: 13px;
+ }
+ .comment_data{
+    width: 180px;
+    height: 15px;
+    top: 47px;
+    font-size: 7.7px;
+    line-height: 15px;
+ }
+}
+@media only screen and (min-height: 200px){
+   .search{
+    top:  auto;
+    bottom: 0;
+   }
+}
+@media only screen and (min-height: 650px) and (max-width: 1000px){
+   .spin{
+    top:  auto;
+    bottom: 0;
+   }
+   .us{
+    top:  auto;
+    bottom: 0;
+   }
+}
+@media only screen and (min-height: 600px) and (max-width: 623.99px){
+   .circle{
+    top: 308px;
+ }
+ .caption{
+    top: 518px;
+ }
+ .arrow{
+    top: 350px;
+ }
+}
+@media only screen and (min-height: 600px) and (max-width: 386.99px){
+   .circle{
+    top: 280px;
+ }
+ .caption{
+    top: 458px;
+ }
+ .arrow{
+    top: 320px;
+ }
+}
